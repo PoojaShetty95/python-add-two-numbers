@@ -1,1 +1,1 @@
-# python-add-two-numbers
+# python-day-1
